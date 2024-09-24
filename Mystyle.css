@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100..900&family=Pattaya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@100;200;300;400;500;600;700&display=swap');
 
 .nerko-one-regular {
     font-family: "Nerko One", cursive;
@@ -248,4 +249,22 @@ td {
     width: 500px;
     height: auto;
     border-radius: 50px;
+}
+.legend1 {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+    position : relative;
+    width: auto;
+}
+.in-content2 {
+    font-family: "Noto Sans Thai", sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.in-content2-leftsdie {
+    font-family: "Noto Sans Thai", sans-serif;
+    font-size: 20px;
+    text-align:left;
 }
