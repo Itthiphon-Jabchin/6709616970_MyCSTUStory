@@ -266,3 +266,13 @@ td {
 span {
     font-weight: bold;
 }
+.image {
+    margin: 50px 100px;
+    margin-bottom: -50px;
+    width: auto;
+    height: 90%;
+    border-radius: 50px 50px 50px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
